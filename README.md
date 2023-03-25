@@ -57,7 +57,7 @@ Recommended resources :
 You'll be using Git/Github a lot so best to learn it.
 
 Recommended resources:
-- [Introduction to git](https://launchschool.com/books/git) - Introductory text on git
+- [Introduction to Git and Github](https://launchschool.com/books/git) - Introductory text on git
 - [Pro Git](https://git-scm.com/book/en/v2) - In depth book on Git. Probably too much detail. Use it as a reference.
 - [MIT Lecture on Git](https://www.youtube.com/watch?v=2sjqTHE0zok&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 - [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git work under the hood
