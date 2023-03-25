@@ -57,7 +57,7 @@ Recommended resources :
 You'll be using Git/Github a lot so best to learn it.
 
 Recommended resources:
-- [Introduction to Git and Github](https://launchschool.com/books/git) - Introductory text on git
+- [Introduction to git](https://launchschool.com/books/git) - Introductory text on git
 - [Pro Git](https://git-scm.com/book/en/v2) - In depth book on Git. Probably too much detail. Use it as a reference.
 - [MIT Lecture on Git](https://www.youtube.com/watch?v=2sjqTHE0zok&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 - [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git work under the hood
@@ -105,6 +105,14 @@ I would reccommend using code sandboxes to quickly test out concepts:
  - [Codepen](https://codepen.io/)
  - [JsFiddle](https://jsfiddle.net/)
  - [Replit](https://replit.com/)
+
+## Ajax
+[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) (short for "Asynchronous JavaScript and XML") is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications.
+
+Recommended resources:
+- [W3schools Ajax Tutorial](https://www.w3schools.com/xml/ajax_intro.asp)
+- [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started)
+
 
 ## Design Patterns
 A [design pattern](https://en.wikipedia.org/wiki/Design_pattern) is the re-usable form of a solution to a design problem.
