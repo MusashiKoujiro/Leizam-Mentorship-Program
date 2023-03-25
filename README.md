@@ -106,6 +106,17 @@ I would reccommend using code sandboxes to quickly test out concepts:
  - [JsFiddle](https://jsfiddle.net/)
  - [Replit](https://replit.com/)
 
+## Design Patterns
+A [design pattern](https://en.wikipedia.org/wiki/Design_pattern) is the re-usable form of a solution to a design problem.
+
+In software engineering, a [software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern) is a general, reusable solution to a commonly occurring problem within a given context in software design.
+
+You'll encounter various design patterns during development and recognizing and using them is therefore beneficial
+
+Recommended resources:
+- [Model View View Model](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)
+- [Dotnet Design Patterns](https://dotnettutorials.net/course/dot-net-design-patterns/) - A comprehensive review of design patterns used in dotnet.
+- [Dive Into Design Patterns](https://refactoring.guru/design-patterns/book) - Book on design patterns. Read first three chapters
 
 ## Web APIS
 A [web API](https://en.wikipedia.org/wiki/Web_API) is an application programming interface (API) for either a web server or a web browser.
@@ -129,6 +140,7 @@ Keeping up with your chosen field is important in being a competent developer.
 
 Here are some blog recommendations:
 - [Fabulous Adventures In Coding](https://ericlippert.com/)
+- [John Skeet's Coding Blog](https://codeblog.jonskeet.uk/)
 - [Hacker News](https://news.ycombinator.com/) - Forum to keep up to date with the tech world
 - [Lobster](https://lobste.rs/) - Similar to Hackernews
 
