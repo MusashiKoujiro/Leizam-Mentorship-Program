@@ -36,7 +36,7 @@ I will be focusing on three key areas that require improvement : Posture, Flexib
 
 Recommended resources:
 - [Repetitive Strain Injury](https://web.eecs.umich.edu/~cscott/rsi.html) - A comprehensive resource on rsi.
-- [Stretching](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=3) - Stretching keeps the muscles flexible, strong, and healthy, and we need that flexibility to maintain a range of motion in the joints.
+- [Stretching](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=3) - Stretching is [important](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching) keeps the muscles flexible, strong, and healthy, and we need that flexibility to maintain a range of motion in the joints.
 - [Posture](https://www.amazon.com/New-Rules-Posture-Stand-Modern/dp/1594771243) - Book on a holistic view of posture and how to correct postural imbalances.
 
 
@@ -57,10 +57,10 @@ Recommended resources :
 You'll be using Git/Github a lot so best to learn it.
 
 Recommended resources:
-- [Introduction to git](https://launchschool.com/books/git) - Introductory text on git
+- [Introduction to git](https://launchschool.com/books/git) - Introductory text on Git and Github
 - [Pro Git](https://git-scm.com/book/en/v2) - In depth book on Git. Probably too much detail. Use it as a reference.
 - [MIT Lecture on Git](https://www.youtube.com/watch?v=2sjqTHE0zok&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-- [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git work under the hood
+- [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git works under the hood
 - [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages) - Writing good commit messages is essential during program development and saves you headaches.
 
 ## C#
@@ -88,7 +88,7 @@ Recommended resources:
 
 ## Web Development
 - [Mozilla Web Docs](https://developer.mozilla.org/en-US/docs/Learn) - The definitive resource on web development.
-- [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) - A hands-on introduction to to building websites
+- [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations) - A hands-on introduction to  building websites
 
 A more specific treatment of the concepts in web development:
 - Javascript 
@@ -153,11 +153,11 @@ Here are some blog recommendations:
 - [Lobster](https://lobste.rs/) - Similar to Hackernews
 
 ## Conclusion
-The above guide might be overwhelming, which is only natural. 
-However, don't get sidetracked with trying to go through all of the resources provided.
+The above guide might be seem daunting at first, but everything is hard at first.
+Practise consistently and it won't seem unsurmountable anymore.
 
-My advise is to start from the beginning and work through the resources in order.
+However, don't get sidetracked by trying to go through all of the resources provided.
 
 Use one resource at a time and try not to fall into the trap of doing it all at the same time.
 
-Wish you luck on your journey.
+Best of luck on your journey!
