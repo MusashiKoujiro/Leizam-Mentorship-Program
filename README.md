@@ -161,7 +161,7 @@ Here are some blog recommendations:
 - [Lobster](https://lobste.rs/) - Similar to Hackernews
 
 ## Conclusion
-The above guide might be seem daunting at first, but everything is hard at first.
+The above guide might be daunting at first, but everything is hard at first.
 Practise consistently and it won't seem unsurmountable anymore.
 
 However, don't get sidetracked by trying to go through all of the resources provided.
