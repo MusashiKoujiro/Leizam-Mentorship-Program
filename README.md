@@ -79,6 +79,8 @@ Recommended resources:
 
 ## ASP.Net Core
 
+[ASP.NET Core](https://en.wikipedia.org/wiki/ASP.NET_Core) is a free and open-source web framework and successor to ASP.NET, developed by Microsoft.It is a modular framework that runs on both the full .NET Framework, on Windows, and the cross-platform .NET. 
+
 Recommended resources:
 - [Microsoft Asp Net Core Tutorial](https://learn.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/) - Covers building a web app using ASP.NET core and Azure.
 - [Asp Net Core Tutorial](https://www.youtube.com/playlist?list=PL6n9fhu94yhVkdrusLaQsfERmL_Jh4XmU) - Youtube tutorial on ASP.NET Core
