@@ -61,7 +61,7 @@ Recommended resources:
 - [Pro Git](https://git-scm.com/book/en/v2) - In depth book on Git. Probably too much detail. Use it as a reference.
 - [MIT Lecture on Git](https://www.youtube.com/watch?v=2sjqTHE0zok&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 - [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git works under the hood
-- [Commit Messages](https://www.theodinproject.com/lessons/foundations-commit-messages) - Writing good commit messages is essential during program development and saves you headaches.
+- [Commit Messages](https://cbea.ms/git-commit/) - Having a good commit message history will allow you (or other developers working on your code) to quickly see what changes were made and why. This is useful if a bug is found in the code that needs to be fixed!
 
 ## C#
 [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) is a general-purpose high-level programming language supporting multiple paradigms. 
