@@ -36,7 +36,7 @@ I will be focusing on three key areas that require improvement : Posture, Flexib
 
 Recommended resources:
 - [Repetitive Strain Injury](https://web.eecs.umich.edu/~cscott/rsi.html) - A comprehensive resource on rsi.
-- [Stretching](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=3) - Stretching is [important](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching) keeps the muscles flexible, strong, and healthy, and we need that flexibility to maintain a range of motion in the joints.
+- [Stretching](https://www.reddit.com/r/flexibility/wiki/starting_to_stretch?utm_source=share&utm_medium=ios_app&utm_name=ioscss&utm_content=1&utm_term=3) - Stretching is [important](https://www.health.harvard.edu/staying-healthy/the-importance-of-stretching) as it keeps the muscles flexible, strong, and healthy, and that flexibility is needed to maintain a range of motion in the joints.
 - [Posture](https://www.amazon.com/New-Rules-Posture-Stand-Modern/dp/1594771243) - Book on a holistic view of posture and how to correct postural imbalances.
 
 
