@@ -2,7 +2,7 @@
 A resources guide for participants in the Leizam Mentorship Program
 
 ## Learning
-Learning how to learn effeciently is at the core of being a successful developer as you'll always be learning new things.
+Learning how to learn efficiently is at the core of being a successful developer as you'll always be learning new things.
 
 It is therefore highly reccomended that you develop a system for integrating new information into your existing knowledge base to keep up with the demands of the field.
 
