@@ -71,7 +71,7 @@ C# encompasses static typing, strong typing, lexically scoped, imperative, decla
 It is the primary language you'll be using at Leizam, specifically the objected oriented aspect.
 
 Recommended resources: 
-- [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+- [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) - MIcrosoft beginner tutorials
 - [Dotnet Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/) - Extensive tutorials on C#
 - [C# In Depth](https://csharpindepth.com/) - Book for a deep dive into C#. Prior programming experience is assumed.
 - [C# In A Nutshell](https://www.amazon.com/C-10-Nutshell-Definitive-Reference/dp/1098121953) - Book that can used as  a C# reference
