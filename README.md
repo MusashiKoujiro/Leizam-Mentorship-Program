@@ -1,35 +1,25 @@
 # Leizam-Mentorship-Program
 A resources guide for participants in the Leizam Mentorship Program
 
-## Git/Github
-
-Recommended resources:
-- [Introduction to git](https://launchschool.com/books/git) - Introductory text on Git and Github
-- [MIT Lecture on Git](https://www.youtube.com/watch?v=2sjqTHE0zok&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-- [Think Like A Git](https://think-like-a-git.net/) -  Website to learn how git works under the hood
-
 
 ## C#
 
 It is the primary language you'll be using at Leizam, specifically the objected oriented aspect.
  
-- [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) - Microsoft beginner tutorials
-- [Dotnet Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/) - Extensive tutorials on C#
+- [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN)
+- [Dotnet Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/)
 
 ## ASP.Net Core
 
-- [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio) - Microsoft tutorial.
+- [Microsoft tutorial](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio)
 
 
 ## Web Development
 
 - Javascript
-    - [Mozilla Intro to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) - A re-introduction to js. 
+    - [Mozilla Intro to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) 
     - [Knockout JS](https://knockoutjs.com/) - The Javascript framework used at Leizam Ventures.
      
-- CSS 
-    - [CSS Tricks](https://css-tricks.com/) - Tips to improve your CSS game.
-
 
 ## Ajax
 
@@ -40,8 +30,7 @@ It is the primary language you'll be using at Leizam, specifically the objected 
 ## Design Patterns
 
 - [Model View View Model](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)
-- [Dotnet Design Patterns](https://dotnettutorials.net/course/dot-net-design-patterns/) - A comprehensive review of design patterns used in dotnet.
-- [Design patterns website](https://refactoring.guru/design-patterns/)
+- [Dotnet Design Patterns](https://dotnettutorials.net/course/dot-net-design-patterns/) 
 
 ## Web APIS
 
