@@ -5,8 +5,6 @@ A resources guide for participants in the Leizam Mentorship Program
 
  Understanding the fundamentals of computers work is essential in becoming a good programmer. 
 
-Recommended resources :
-
 - [What Is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - A long article that serves as a good general introduction to computers and programming.
 
 ## Git/Github
@@ -20,21 +18,16 @@ Recommended resources:
 ## C#
 
 It is the primary language you'll be using at Leizam, specifically the objected oriented aspect.
-
-Recommended resources: 
+ 
 - [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) - Microsoft beginner tutorials
 - [Dotnet Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/) - Extensive tutorials on C#
 
 ## ASP.Net Core
 
-[ASP.NET Core](https://en.wikipedia.org/wiki/ASP.NET_Core) . 
-
-Recommended resources : 
-   With [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio)
+- [ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio) - Microsoft tutorial.
 
 
 ## Web Development
-
 
 - Javascript
     - [Mozilla Intro to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_overview) - A re-introduction to js. 
@@ -45,25 +38,18 @@ Recommended resources :
 
 
 ## Ajax
-[Ajax](https://en.wikipedia.org/wiki/Ajax_(programming)) 
 
-Recommended resources:
 - [W3schools Ajax Tutorial](https://www.w3schools.com/xml/ajax_intro.asp)
 - [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX/Getting_Started)
 
 
 ## Design Patterns
-[Design patterns](https://en.wikipedia.org/wiki/Design_pattern)
 
-Recommended resources:
 - [Model View View Model](https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm)
 - [Dotnet Design Patterns](https://dotnettutorials.net/course/dot-net-design-patterns/) - A comprehensive review of design patterns used in dotnet.
 - [Design patterns website](https://refactoring.guru/design-patterns/)
 
 ## Web APIS
-[Web APIs](https://en.wikipedia.org/wiki/Web_API)
-
-Recommended Resources:
 
 - [ASP.NET Core Web API Tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-7.0&tabs=visual-studio)
 - [Dotnet ASP.NET Core web API Tutorial](https://dotnettutorials.net/course/asp-net-core-web-api-tutorials/) 
