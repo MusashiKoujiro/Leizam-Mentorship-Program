@@ -1,12 +1,6 @@
 # Leizam-Mentorship-Program
 A resources guide for participants in the Leizam Mentorship Program
 
-## Introduction
-
- Understanding the fundamentals of computers work is essential in becoming a good programmer. 
-
-- [What Is Code](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) - A long article that serves as a good general introduction to computers and programming.
-
 ## Git/Github
 
 Recommended resources:
