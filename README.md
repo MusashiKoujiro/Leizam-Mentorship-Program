@@ -25,15 +25,6 @@ Recommended resources:
 - [C# Beginner Tutorials](https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVxKLQCHpiUWun7vlJJvUiN) - Microsoft beginner tutorials
 - [Dotnet Tutorials](https://dotnettutorials.net/course/csharp-dot-net-tutorials/) - Extensive tutorials on C#
 
-
-  ## Editors
-  - [Visual Studio](https://visualstudio.microsoft.com/) - Microsoft's recommendation.
-  - [Rider](https://www.jetbrains.com/rider/) - Paid alternative to Visual Studio.
-  - [LinqPad](https://www.linqpad.net/) - Scratch pad for C#.
-  - [RoslynPad](https://roslynpad.net/) - Open source alternative to LinqPad
-  - [NetPad](https://github.com/tareqimbasher/NetPad) - Another open source alternative
-  - [Dotnet Fiddle](https://dotnetfiddle.net/) - Online version.
-
 ## ASP.Net Core
 
 [ASP.NET Core](https://en.wikipedia.org/wiki/ASP.NET_Core) . 
